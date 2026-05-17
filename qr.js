@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     // Vercel'deki canlı sitenizin linki
-    const targetUrl = "https://tubitak-kaynak-a.vercel.app/";
+    const targetUrl = "https://tubitak-kaynakca.vercel.app/";
     
     const qrGrid = document.getElementById("qr-grid");
     
